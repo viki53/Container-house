@@ -28,7 +28,7 @@
 		<polygon class="st2" points="237.7,289.7 232.1,289.7 232.1,289.7 		"/>
 	</g>
 </g>
-<g id="RDC">
+<g id="Ground_floor">
 	<g>
 		<rect x="586.7" y="497.9" class="st0" width="96.3" height="133.3"/>
 		<path d="M681.7,499.3v130.5h-93.5V499.3H681.7 M684.5,496.5h-99.2v136.2h99.2V496.5L684.5,496.5z"/>
@@ -101,10 +101,10 @@
 		<line class="st6" x1="243.7" y1="352.5" x2="187" y2="352.5"/>
 	</g>
 </g>
-<g id="Toit" class="st8">
+<g id="Roof" class="st8">
 	<rect x="165.8" y="217.7" class="st9" width="519" height="414.7"/>
 </g>
-<g id="Légende">
+<g id="Legend">
 	<g>
 		<text transform="matrix(1 0 0 1 59.0061 27.9611)" class="st10 st11">Porte</text>
 		<g>
