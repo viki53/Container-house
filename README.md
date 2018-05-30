@@ -2,11 +2,11 @@
 
 The idea here is to build a great and cheap custom house, using shipping containers as the main structural elements.
 
-The current view uses five 40" and one 20" containers.
+The current view uses only five 40" High-Cube containers. Two other containers could be used to make a garage. One more for a pool house…
 
-The plan has been made using Adobe Illustrator with an SVG export so it can be viewed anywhere.
+The plan has been made using [*Sweet Home 3D*](http://www.sweethome3d.com/) with an SVG export so it can be viewed anywhere.
 
-Dimensions are at 1:100 scale so *1 cm* equals *1 m* (easy enough conversions).
+![Current House Plan](3D-Plan.svg)
 
 # Inside the house
 
@@ -18,6 +18,10 @@ The current plan involves a simple house with big living spaces for a couple or 
 * 1 laundry room
 * 1 office (could become a bedroom)
 * 1 living/kitchen area
+
+![3D rendering of the current plan — First view](3D-Plan_Spring_18-00_SE.png)
+
+![3D rendering of the current plan — Second view](3D-Plan_Winter_12-00_SW.png)
 
 # Outside the house
 
